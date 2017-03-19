@@ -1,3 +1,16 @@
+# http://stackoverflow.com/a/30330276/5452814
+node_modules
+.tmp
+.sass-cache
+**/bower_components or sometimes it is lib/**
+platforms
+plugins
+*.swp
+*.swo
+*.log
+*.DS_Store
+
+
 # Logs
 logs
 *.log
